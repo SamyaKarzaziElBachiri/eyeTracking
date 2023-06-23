@@ -6,9 +6,9 @@
 
 **Miembros:**
 
-Samya Karzazi El Bachiri 1568589,
-José Francisco Aguilera Oliver 1601361,
-Pau Bermúdez Valle 1604190
+Samya Karzazi El Bachiri,
+José Francisco Aguilera Oliver,
+Pau Bermúdez Valle
 
 
 **Sinopsis de archivos:**
