@@ -1,4 +1,4 @@
-# VC_eyeTracking
+# eyeTracking
 
 ## UAB 2023 - Visión por Computación
 ### Proyecto sobre eye recognition and tracking
